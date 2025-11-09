@@ -51,7 +51,3 @@ Make sure you have the required version of Python (e.g., Python 3.7 or later) in
 
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](Licence) file for details.
-
-Copyright (c) 2025 <Chid> Chidangsha Sekhar Bezbaruah </Chid># Wound-Healing-Analysis-in-Monopterus-Cuchia
