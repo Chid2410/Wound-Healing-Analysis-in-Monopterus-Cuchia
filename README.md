@@ -11,12 +11,9 @@ The Dataset is collected from Department of Zoology,and not publicly available.
 
 We trained three different machine learning models to classify vehicle and non-vehicle. For more details about the models and their performance, refer to the project report in the `documentation` directory.
 
-- `Mysequential_CNN.ipynb`: G-colab Notebook for vehicle detection using sequentail personal customized CNN model.
-- `vehicleDetection_EffNetB0.ipynb`: G-colab Notebook for vehicle detection using customized efficientNetB0 model.
-- `vehicleDetection_VGG16.ipynb`: G-colab Notebook for vehicle detection using  customized VGG16 model.
--K-Means Clustering – for identifying healing-stage clusters.
--CuchiaNet Model (MobileNet-based) – your custom deep learning CNN for wound image classification or healing prediction.
--Streamlit App – for interactive visualization of CuchiaNet’s outputs and wound healing progress.
+- `MachineLearning_KmeansClustering.ipynb`: Notebook for identifying healing-stage clusters
+- `Cuchianet.ipynb`: Notebook for customized deep learning CNN for wound image classification or healing prediction.
+- `app.py`: Notebook for interactive visualization of CuchiaNet’s outputs and wound healing progress.
 
 
 
