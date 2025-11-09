@@ -37,7 +37,7 @@ Make sure you have the required version of Python (e.g., Python 3.7 or later) in
 
 1. To use this project, you need to have Python installed on your system.
    
-2. Install the required dependencies using the following command: `pip install -r requirements.txt`
+2. Install the required dependencies using the following command: `pip install -r requirement.txt`
 
 3. Open your terminal, navigate to where you want to save the project and and Clone this repository using `git clone https://github.com/Chid2410/Wound Healing Analysis in Monopterus Cuchia`
 
