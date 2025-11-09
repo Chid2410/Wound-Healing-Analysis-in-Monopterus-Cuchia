@@ -23,10 +23,10 @@ We trained three different machine learning models to classify vehicle and non-v
 
 
 ## Documentation
-The `documentation` directory contains my project proposal, Report and assests. For more detailed information about the project, you can refer to the following documents:
+The `Documentation` directory contains my project proposal, Report and assests. For more detailed information about the project, you can refer to the following documents:
 
 
-- [Project Report](documentation/Report.pdf)
+- [Project Report](Documentation/Report.pdf)
   
 
 
